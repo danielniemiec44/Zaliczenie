@@ -1,6 +1,9 @@
 package com.xdaanielx.zaliczenie;
 
 public class Main {
+    String name = "Daniel";
+    String surname = "Niemiec";
+
 
     public static void main(String[] args) {
 	// write your code here

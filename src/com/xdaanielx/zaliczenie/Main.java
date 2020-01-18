@@ -17,4 +17,9 @@ public class Main {
     public static int podziel(int a, int b){
         return a / b;
     }
+
+    public static int odejmij(int a, int b){
+        return a - b;
+    }
+
 }

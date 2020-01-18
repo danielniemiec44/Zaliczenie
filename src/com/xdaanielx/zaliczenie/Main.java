@@ -1,7 +1,8 @@
 package com.xdaanielx.zaliczenie;
 
 public class Main {
-
+    String name = "Daniel";
+    String surname = "Niemiec";
 
 
 

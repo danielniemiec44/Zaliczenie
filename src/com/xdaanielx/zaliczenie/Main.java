@@ -9,4 +9,12 @@ public class Main {
     public static int add(int a, int b){
         return a + b;
     }
+
+    public static int pomnoz(int a, int b){
+        return a * b;
+    }
+
+    public static int podziel(int a, int b){
+        return a / b;
+    }
 }
